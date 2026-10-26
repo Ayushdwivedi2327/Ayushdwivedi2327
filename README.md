@@ -241,9 +241,7 @@ I'm an aspiring **AI/ML Engineer** interested in intelligent systems, algorithmi
   <b>Learn consistently. Solve thoughtfully. Build intelligently.</b>
 </p>
 
-<p align="center">
-  <i>सबकी अपनी-अपनी कहानी है। ❤️‍🩹</i>
-</p>
+ 
 
 <!-- ANIMATED FOOTER -->
 <p align="center">
