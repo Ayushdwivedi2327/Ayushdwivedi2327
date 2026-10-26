@@ -184,9 +184,9 @@ I'm an aspiring **AI/ML Engineer** interested in intelligent systems, algorithmi
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdwivedi2327&bg_color=0d1117&color=58a6ff&line=238636&point=bc8cff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdwivedi2327&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true"
     alt="GitHub contribution activity graph"
+    width="100%"
   />
 </p>
 
