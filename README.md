@@ -180,14 +180,20 @@ I'm an aspiring **AI/ML Engineer** interested in intelligent systems, algorithmi
 
 ---
 
+ 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdwivedi2327&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
+  <a href="https://github.com/Ayushdwivedi2327">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayushdwivedi2327&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub contribution statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ayushdwivedi2327?tab=repositories">
+    Explore my repositories and contributions →
+  </a>
 </p>
 
 ---
