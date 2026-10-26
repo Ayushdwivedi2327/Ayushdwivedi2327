@@ -1,8 +1,13 @@
 
 <!-- ======================================================
-     AYUSH DWIVEDI | PREMIUM GITHUB PROFILE
-     Profile: github.com/Ayushdwivedi2327
+     AYUSH DWIVEDI | GITHUB PROFILE README
+     Repository: Ayushdwivedi2327
 ======================================================= -->
+
+<!-- HINDI QUOTE: TOP ONLY -->
+<p align="center">
+  <i>सबकी अपनी-अपनी कहानी है। ❤️‍🩹</i>
+</p>
 
 <!-- ANIMATED HEADER -->
 <p align="center">
@@ -32,17 +37,9 @@
 </p>
 
 <p align="center">
-  <i>सबकी अपनी-अपनी कहानी है। ❤️‍🩹</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ayushdwivedi2327?tab=repositories">
-    Explore My Repositories
-  </a>
+  <a href="https://github.com/Ayushdwivedi2327?tab=repositories">Explore My Repositories</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/Ayushdwivedi2327?tab=stars">
-    My Stars
-  </a>
+  <a href="https://github.com/Ayushdwivedi2327?tab=stars">My Stars</a>
 </p>
 
 ---
@@ -55,9 +52,9 @@ I'm an aspiring **AI/ML Engineer** interested in intelligent systems, algorithmi
 - 🧠 Practicing Data Structures & Algorithms and Competitive Programming.
 - 🔗 Interested in LLMs, LangChain, LangGraph, and Agentic AI.
 - 📊 Learning data analysis and visualization with Python libraries.
-- ⚡ Improving algorithmic thinking and code efficiency.
+- ⚡ Improving problem-solving skills and algorithmic efficiency.
 - 🎯 Preparing for AI/ML and software engineering internships.
-- 🌱 Committed to continuous learning, experimentation, and improvement.
+- 🌱 Focused on learning through practice, experimentation, and building.
 
 ---
 
@@ -147,8 +144,8 @@ I'm an aspiring **AI/ML Engineer** interested in intelligent systems, algorithmi
   <a href="https://www.codechef.com/users/ayush2327">
     <img src="https://img.shields.io/badge/CodeChef-ayush2327-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef: ayush2327"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile%20Coming%20Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <a href="https://www.geeksforgeeks.org/profile/ayushdwivedi2327?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-ayushdwivedi2327-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks: ayushdwivedi2327"/>
   </a>
 </p>
 
@@ -240,8 +237,6 @@ I'm an aspiring **AI/ML Engineer** interested in intelligent systems, algorithmi
 <p align="center">
   <b>Learn consistently. Solve thoughtfully. Build intelligently.</b>
 </p>
-
- 
 
 <!-- ANIMATED FOOTER -->
 <p align="center">
